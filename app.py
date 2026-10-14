@@ -65,7 +65,7 @@ FASES = {
 }
 
 PADRAO = {
-    "nomes": {"ele": "Helton", "ela": "Isabela"},
+    "nomes": {"ele": "Ele", "ela": "Ela"},
     "ciclo": {"inicio": None, "duracao": 28, "menstruacao": 5, "modo": "Precaução"},
     "registros": {},
     "carinho": [],
